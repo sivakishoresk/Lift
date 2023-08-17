@@ -1,0 +1,2 @@
+I tried to do it including with time like a gap of 5 seconds when the left gets halt but at a time only single operation is running i mean when it is at halt i cannot give an input and it is causing some error i dont know how to fix it.
+
